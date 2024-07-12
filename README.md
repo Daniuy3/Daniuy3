@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Git**
 
-- 👨‍💻 All of my projects are available at [https://resonant-banoffee-f0bbce.netlify.app/](https://resonant-banoffee-f0bbce.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://resonant-banoffee-f0bbce.netlify.app/]
 
 - ⚡ Fun fact **I realized of my passion because a mistake**
 
